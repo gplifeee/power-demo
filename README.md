@@ -1,4 +1,4 @@
 # Demo
 
-this is powers doings
+this is powers doing
 ## newin
